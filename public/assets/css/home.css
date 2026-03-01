@@ -4,7 +4,7 @@
     padding: 0px;
 }
 
-.cabecario { 
+#cabecario { 
     width: 90%; /*Largura*/
     margin: 40px; /*margem*/
     padding: 15px; /*espaçamento de dentro*/
@@ -16,13 +16,13 @@
     align-items: center;
 }
 
-.cabecario h1 {
+#cabecario h1 {
     /*font-family: Playfair Display;*/
     font-size: 35px;
     font-weight: normal;
 }
 
-.cabecario h2 {
+#cabecario h2 {
     /*font-family: Cormorant Garamond;*/
     font-size: 15px;
     font-weight: normal;
@@ -66,12 +66,12 @@ font-size: 20px;
 
 }               
 
-.hero h2 {
+#hero h2 {
 font-size: 35px;
 font-weight: normal;    
 }
 
-.hero p {
+#hero p {
 font-size: 20px;
 font-weight: normal;    
 }
@@ -88,7 +88,7 @@ display: inline-block; /*elementos lado a lado na mesma linha*/
 margin-top: 20px; /*espaçamento de cima*/
 }
 
-.content {
+#content {
     background-color: #7A1E2C;
     padding: 20px;
     color:#DEDEDE;
