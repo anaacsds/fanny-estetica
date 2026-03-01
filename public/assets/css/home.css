@@ -1,16 +1,42 @@
-* {
+/*Config. inicial*/
+* { 
     margin: 0px;
     padding: 0px;
 }
 
+/*Cabeçario*/
+header { 
+    width: 90%; /*Largura*/
+    margin: 40px; /*margem*/
+    padding: 15px; /*espaçamento de dentro*/
+    border: 0.5px solid #888; 
+    border-radius: 10px;
+    background-color: #f5f5f500; /*fundo transparente*/
+
+    display: flex;
+    align-items: center;
+}
+
+.headEsq {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*Logo do cabeçario*/
+#logo {
+    height: 80px;
+}
+
+/*Corpo do site*/
 body {
     background-color: #DEDEDE;
 }
 
+/*Fanny - main*/
 #fannypng {
     height: 450px;
 }
 
-#logo {
-    height: 80px;
-}
+
+
