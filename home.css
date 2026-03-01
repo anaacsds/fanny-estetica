@@ -3,3 +3,14 @@
     padding: 0px;
 }
 
+body {
+    background-color: #DEDEDE;
+}
+
+#fannypng {
+    height: 450px;
+}
+
+#logo {
+    height: 80px;
+}
