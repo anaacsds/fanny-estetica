@@ -32,7 +32,11 @@
     display: flex;
     gap: 50px;
     margin-left: 900px;
+}
 
+#menu a {
+    text-decoration: none;
+    color:rgb(0, 0, 0);
 }
 
 /*Logo do cabeçario*/
